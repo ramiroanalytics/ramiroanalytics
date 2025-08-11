@@ -8,7 +8,20 @@ Sou apaixonado pela área, pois me permite enxergar o mundo corporativo sob uma 
 Seguimos estudando e evoluindo.💪📶
 
 ### 💻Linguagens e Tecnologias
-
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src=" <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
