@@ -40,6 +40,14 @@ Seguimos estudando e evoluindo.💪📶
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=mHi46t5vguiz&format=png&color=000000" 
+/>
 <br/>
 <br/>
 
