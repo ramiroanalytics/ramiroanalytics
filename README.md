@@ -18,14 +18,6 @@ Seguimos estudando e evoluindo.💪📶
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -40,7 +32,14 @@ Seguimos estudando e evoluindo.💪📶
     style="padding-right: 10px;" 
     src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2017/09/New_Power_BI_Logosvg.png?fit=630%2C630&ssl=1" 
 />
-
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <br/>
 <br/>
 
