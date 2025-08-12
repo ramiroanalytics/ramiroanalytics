@@ -8,7 +8,6 @@ Sou apaixonado pela área, pois me permite enxergar o mundo corporativo sob uma 
 Seguimos estudando e evoluindo.💪📶
 
 ### 💻Linguagens e Tecnologias
-/>
 <img 
     align="left" 
     alt="HTML"
