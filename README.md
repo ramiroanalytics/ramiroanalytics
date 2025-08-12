@@ -14,9 +14,9 @@ Seguimos estudando e evoluindo.💪📶
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/svg/373590/excel2 " 
+    src=" Icon by <a href='https://iconpacks.net/?utm_source=link-attribution&utm_content=4954'>Iconpacks</a>" 
 />
-<img 
+<Icon by <a href='https://iconpacks.net/?utm_source=link-attribution&utm_content=4954'>Iconpacks</a>img 
     align="left" 
     alt="HTML"
     title="HTML" 
