@@ -9,12 +9,6 @@ Seguimos estudando e evoluindo.💪📶
 
 ### 💻Linguagens e Tecnologias
 <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.logo.wine/logo/Microsoft_Excel" 
 />
 
     align="left" 
