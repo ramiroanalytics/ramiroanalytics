@@ -66,7 +66,7 @@ Seguimos estudando e evoluindo.💪📶
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiroanalytics&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=4" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiroanalytics&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
 </p>
