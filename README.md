@@ -9,8 +9,6 @@ Seguimos estudando e evoluindo.💪📶
 
 ### 💻Linguagens e Tecnologias
 <img 
-/>
-
     align="left" 
     alt="HTML"
     title="HTML" 
