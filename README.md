@@ -1,7 +1,7 @@
 #📊💻 Ramiro
 **`Analista de Dados`**
 
-Me chamo Ramiro Lima, tenho 35 anos e sou natural do Rio de Janeiro. Sou formado em Gestão Financeira e, atualmente, estou iniciando minha trajetória na área de Dados, após ter estudado Python e conceitos essenciais para análise.
+Olá, me chamo Ramiro Lima
 
 Sou apaixonado pela área, pois me permite enxergar o mundo corporativo sob uma visão diferente. Cada desafio de negócio que consigo resolver por meio dos dados traz uma satisfação imensa e reforça minha motivação para seguir evoluindo como profissional.
 
