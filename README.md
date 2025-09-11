@@ -3,7 +3,7 @@
 
 Olá, me chamo Ramiro
 
-Seguimos estudando e evoluindo.💪📶
+Sigo estudando e evoluindo.💪📶
 
 ### 💻Linguagens e Tecnologias
 <img 
