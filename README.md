@@ -1,9 +1,7 @@
 #📊💻 
 **`Analista de Dados`**
 
-Olá, me chamo Ramiro Lima
-
-Sou apaixonado pela área de dados, pois me permite enxergar o mundo sob uma visão diferente. Cada desafio de negócio que consigo resolver por meio dos dados, traz uma satisfação imensa e reforça minha motivação para seguir evoluindo como profissional.
+Olá, me chamo Ramiro
 
 Seguimos estudando e evoluindo.💪📶
 
