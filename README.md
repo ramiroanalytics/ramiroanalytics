@@ -1,9 +1,9 @@
 #📊💻 
 **`Analista de Dados`**
 
-Olá, me chamo Ramiro
+Ramiro Lima 
 
-Sigo estudando e evoluindo.💪📶
+
 
 ### 💻Linguagens e Tecnologias
 <img 
